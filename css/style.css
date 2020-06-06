@@ -39,7 +39,7 @@ body {
    
 }
 
-.container-aim{
+#container-aim{
     width: 80%;
     margin:none;
     overflow: hidden;
