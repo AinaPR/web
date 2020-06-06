@@ -31,7 +31,7 @@ body {
 
 
 #showcase{
-    background-image: url('https://assets.classicfm.com/2017/01/violin-v4r-1483624412-editorial-long-form-0.jpg');
+    background-image: url(https://assets.classicfm.com/2017/01/violin-v4r-1483624412-editorial-long-form-0.jpg);
     background-position: center top;    
     height: 300px;
     margin-bottom: 30px;
